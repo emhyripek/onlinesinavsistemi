@@ -58,8 +58,7 @@ require_once 'sidebar.php';
                             <blockquote class="generic-blockquote">
                                 Bu sistem, <strong>29 MAYIS ÜNİVERSİTESİ</strong> bünyesinde yürütülen <strong>Web Tasarım ve Kodlama</strong> dersi kapsamında final projesi olarak geliştirilmiştir.<br>
                                 <strong>Düzenleyen:</strong> EMİR İPEK <br>
-                                <strong>Danışman:</strong> CİHAN KEMENT <br>                                                           
-                                <strong>Geliştirici</strong> KADİR BAYAR <br>
+                                <strong>Danışman:</strong> CİHAN KEMENT <br>                                                                                           
                                 <strong>Proje Tarihi:</strong> Mayıs 2025
                             </blockquote>
                         </div>
